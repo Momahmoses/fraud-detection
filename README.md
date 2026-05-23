@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-End-to-end fraud detection pipeline — from synthetic data generation and exploratory data analysis through to model training, evaluation, and real-time prediction — using classical ML on financial transaction data.
+End-to-end fraud detection pipeline, from synthetic data generation and exploratory data analysis through to model training, evaluation, and real-time prediction, using classical ML on financial transaction data.
 
 ---
 
@@ -71,5 +71,5 @@ python predict.py
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
